@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos Casanova 😄, estudante Dev FullStack!
+### Olá! Eu sou o Carlos Casanova 😄, estudante Dev!
 ##
 <div align="center">
   <a href="https://github.com/carlosctu">
