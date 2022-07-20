@@ -2,8 +2,8 @@
 
 
 - 💻 Software Engineer Student at Driven.
-- 🧑‍💻 Assist. Software Engineering at Warren Brasil.
-- 🧑‍🔬 Graduated in Industrial Engineering at FURB.
+- 💻 Assist. Software Engineering at Warren Brasil.
+- 🔬 Graduated in Industrial Engineering at FURB.
   
 <div align="center">
   <a href="https://github.com/carlosctu">
