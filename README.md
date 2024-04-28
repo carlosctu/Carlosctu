@@ -1,8 +1,7 @@
 <h2 align="center"> Hello! I'm Carlos Casanova <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />, Dev Student!</h2>
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=carlosctu&color=ff0000&label=Visitor+nº:)
-- 💻 Software Engineer Student at Driven.
-- 💻 Assist. Software Engineering at Warren Brasil.
+- 💻 Mobile Developer.
 - 🔬 Graduated in Industrial Engineering at FURB.
   
 
